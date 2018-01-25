@@ -12,8 +12,8 @@ The project can be run with
 ./ExtendedKF
 
 
-[Result1]: ./img/results.png "Data set 1"
-[Result2]: ./img/result2.png "Data set 2"
+[Result1]: ./results.png "Data set 1"
+[Result2]: ./result2.png "Data set 2"
 
 # Results
 
