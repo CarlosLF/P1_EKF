@@ -16,7 +16,7 @@ The project can be run with
 [Result2]: ./result2.png "Data set 2"
 
 # Results
-and
+
 The results of the EKF project of data set 1  are 
 ![alt text][Result1]
 
