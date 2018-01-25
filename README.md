@@ -17,8 +17,8 @@ The project can be run with
 
 # Results
 
-The results of the EKF project of data set 1  are 
+The results of the EKF project with data set 1 are 
 ![alt text][Result1]
 
-The results of the EKF project of data set 2 are
+The results of the EKF project with data set 2 are
 ![alt text][Result2]
