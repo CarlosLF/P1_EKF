@@ -16,5 +16,9 @@ The project can be run with
 [Result2]: ./result2.png "Data set 2"
 
 # Results
+and
+The results of the EKF project of data set 1  are 
+![alt text][Result1]
 
-The results of the EKF project of data set 1 and data set 2 are shown in Figure ![alt text][Result1], ![alt text][Result2], respectively.
+The results of the EKF project of data set 2 are
+![alt text][Result2]
